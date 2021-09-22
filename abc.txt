@@ -1,0 +1,16 @@
+==>declarative :
+Custom objects
+relationships
+rollup summery
+==>No of times trigger
+Process flows
+workflow rule
+roll up summeries
+==>greater than 10000
+process builder
+Escalation rule
+workflow ruke
+==> logic layer
+workflows
+process builder
+Ivalidation rules
